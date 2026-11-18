@@ -46,3 +46,17 @@ The script provided will generate simulated page views on your website. It loops
 ## ⚠️ Disclaimer
 
 This script is strictly for **educational, testing, and demonstration purposes**. It may not work on all websites depending on how their analytics and view counters are configured.
+
+---
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🌐 Connect & Support
+
+* **YouTube:** [@Kalitpointofficial](https://youtube.com)
+* **Website / Blog:** [://blogspot.com](https://://blogspot.com)
+  
+Made with Love by Kalidhasan
