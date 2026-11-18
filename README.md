@@ -58,7 +58,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🌐 Connect & Support
 
-* **YouTube:** [@Kalitpointofficial](https://youtube.com)
-* **Website / Blog:** [://blogspot.com](https://://blogspot.com)
+* **YouTube:** [@Kalitpointofficial](https://www.youtube.com/@Kalitpointofficial)
+* **Website / Blog:** [Kalitpoint](https://kalitpoint.blogspot.com)
   
 Made with Love by Kalidhasan
