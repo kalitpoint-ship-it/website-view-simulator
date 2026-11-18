@@ -5,6 +5,8 @@
 
 For a detailed visual walkthrough of how the simulator works and how to get the code, watch the full tutorial on YouTube:
 
+<img width="1280" height="720" alt="Website View Simulator" src="https://github.com/user-attachments/assets/9d71d3af-da2a-4013-81cb-776e0f89748e" />
+
 👉 **[Watch the Working Procedure on YouTube](https://www.youtube.com/watch?v=2RvR7Vbh7mo)**
 
 ### Video Chapters
